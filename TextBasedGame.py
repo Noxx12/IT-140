@@ -1,4 +1,4 @@
-# Kelly Perez
+
 # Scorched Earth
 
 import time
